@@ -301,6 +301,6 @@ section-two {
         margin-top: 15px;
     }
     .normal {
-        font-size: 1.19rem;
+        /* font-size: 1.19rem; */
     }
 }
