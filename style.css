@@ -210,6 +210,9 @@ section-two {
     }
 }
 @media (min-width: 1366px) {
+    * {
+        font-size: 14px;
+    }
     .icons {
         font-size: 20px !important;
     }
