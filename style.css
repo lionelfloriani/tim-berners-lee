@@ -237,7 +237,9 @@ section-two {
 #navDesk {
     display: none;
 }
-
+#navRight {
+    display: none;
+}
 @media (min-width: 767px) {
     section {
         margin: 40px 100px;
@@ -255,6 +257,9 @@ section-two {
     }
     #hamburger {
         font-size: 45px;
+    }
+    #navRight {
+        display: none;
     }
 }
 @media (min-width: 1366px) {
